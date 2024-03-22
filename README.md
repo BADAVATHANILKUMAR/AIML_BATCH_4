@@ -6,3 +6,6 @@
 
 
 [lab-03](https://github.com/BADAVATHANILKUMAR/AIML_BATCH_4/blob/main/Untitled3.ipynb)
+
+
+[Lab-04](https://github.com/BADAVATHANILKUMAR/AIML_BATCH_4/blob/main/Assignment4.ipynb)
